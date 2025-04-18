@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+    background-color: #111111;
+    /* A dark grey color */
+    color: white;
+    /* Ensures text is visible */
+}
